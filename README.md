@@ -136,7 +136,11 @@ SCORES - > {1 (0.12), 2 (0.56), 3 (0.21), 4 (0.11)}
 
 
 ## Gradient Boost Classifier results
-![](/Images/rf_features_importance_list.png)
+![](/Images/grad_cm_acc_report.png)
+
+## Gradient Boost Classifier Tree
+![](/Images/grad_boost_tree.png)
+
 
 ## Precision-Recall graph - Logistic Regression vs. Random Forest
 ![](/Images/pr_lr_rf.png)
