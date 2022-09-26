@@ -151,7 +151,7 @@ SCORES - > {1 (0.12), 2 (0.56), 3 (0.21), 4 (0.11)}
 
 
 ---------------------------------------
-Our initial results were not the quite as what was presented here.  This is due to the data not being 'clean'.  I was able to clean up the data, use the bigger data set which we originally intended on using, and was able to get slightly better results.  Hence, these notebooks' results will differ from the power point presentation.
+Our initial results were not quite the same as what was presented here.  This is due to the data not being 'clean'.  I was able to clean up the data, use the bigger data set which we originally intended on using, and was able to get slightly better results.  Hence, these notebooks' results will differ from the power point presentation.
 
 ---------------
 
